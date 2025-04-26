@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct CURLtureApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListView()
+                .modelContainer(for: HairProfile.self)
         }
+    }
+    init() {
+        print(URL.applicationSupportDirectory.path(percentEncoded: false))
     }
 }
