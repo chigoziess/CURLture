@@ -5,3 +5,14 @@ Within the profile, you can save hair type, porosity, products used, and notes. 
 You can save and add to the list, delete from the list, edit the items in the list, etc.
 The hair type and porosity can be chosen with pickers.And the date can be chosen with a calendar. 
 There’s a different color scheme for dark mode. And also, if you have no notes, it shows up as “n/a”.
+
+![image](https://github.com/user-attachments/assets/a875ae0b-b20d-43a6-a319-cf5acd031ff6)
+![image](https://github.com/user-attachments/assets/fdad90f8-7eae-477e-9c6d-43bae3e78d72)
+![image](https://github.com/user-attachments/assets/259ff525-d1a7-40e2-babb-962c0143fee9)
+![image](https://github.com/user-attachments/assets/d5aa06d4-6494-4c7f-8ea2-cca60c2a2a26)
+<img width="365" alt="PNG image" src="https://github.com/user-attachments/assets/2c695e9c-36ef-49b7-aead-d565098704a4" />
+<img width="283" alt="PNG image" src="https://github.com/user-attachments/assets/1fba18cd-e4c7-4aae-bd65-84408291ade2" />
+
+
+
+
